@@ -2,13 +2,13 @@ name: ArtVoices
 favicon: null
 layout_spectrum: 0.21820080722682178
 typography_spectrum: 0.08362918044440448
-title: null
+title: "Art that sells because it's seen and heard"
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-61655831-1
   facebook: null
   twitter: null
 opengraph:
