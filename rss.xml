@@ -2,10 +2,18 @@
     <channel>
         <title><![CDATA[Art that sells because it's seen and heard]]></title>
         <description><![CDATA[Art that sells because it's seen and heard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.augerlabs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 16:27:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 16:35:26 GMT</lastBuildDate>
+        <atom:link href="http://www.augerlabs.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>MAKES SEEING AND SAVING
+ART EASIER FOR BUYERS</p>]]></description>
+            <link>http://www.augerlabs.com/f8f61006-c6bc-4e90-ad4b-6740d739044e/index.html</link>
+            <guid isPermaLink="false">f8f61006-c6bc-4e90-ad4b-6740d739044e</guid>
+            <pubDate>Fri, 05 Feb 2016 16:35:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SHOWS ART IN THE HOME
 WITH AUGMENTED REALITY]]></title>
@@ -14,7 +22,7 @@ WITH AUGMENTED REALITY</h1><p>Art Voices uses the latest augmented reality
 technology to allow patrons to view artwork
 in their home or office setting, in place and
 to scale…prior to purchase.</p></article>]]></description>
-            <link>undefined1ce8a573-8870-4ee1-95e8-830b090f47c0/index.html</link>
+            <link>http://www.augerlabs.com/1ce8a573-8870-4ee1-95e8-830b090f47c0/index.html</link>
             <guid isPermaLink="false">1ce8a573-8870-4ee1-95e8-830b090f47c0</guid>
             <pubDate>Fri, 05 Feb 2016 16:27:42 GMT</pubDate>
         </item>
